@@ -1,1 +1,1 @@
-# react-redux-sample
+# redux-thunk-sample
